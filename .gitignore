@@ -1,0 +1,14 @@
+# Virtual Environment
+.venv/
+
+# Secret file
+.env
+
+# Generated data
+*.csv
+
+# VSCode settings
+.vscode/
+
+# Python cache
+__pycache__/
